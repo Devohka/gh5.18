@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+div {
+  margin-left: 15px;
+}
+
+button {
+  background-color: green;
+  width: 150px;
+  height: 150px;
+  border: none;
+  border-radius: 25px;
+}
